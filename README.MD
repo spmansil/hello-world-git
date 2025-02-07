@@ -37,8 +37,8 @@ Underline 2
 ![Logo Github](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png)
 
 # Code Snippets
-```JSON
 Código en JSON
+```JSON
 [
     {
 	    "type": "basket",
@@ -56,9 +56,8 @@ Código en JSON
     }
 ]
 ```
-
-```JSON
 Otro código en JSON
+```JSON
 [
   {
     "title": "apples",
@@ -72,9 +71,8 @@ Otro código en JSON
   }
 ]
 ```
-
-```Javascript
 Código en Javascript
+```Javascript
 function $initHighlight(block, cls) {
   try {
     if (cls.search(/\bno\-highlight\b/) != -1)
